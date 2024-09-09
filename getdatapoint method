@@ -1,0 +1,15 @@
+
+def getDataPoint(quote):
+
+""Produce all of the needed values to generate a datapoint""
+
+
+
+................. Update this function..........
+stock quote['stock']
+bid_price float (quote['top_bid'] ['price'])
+
+ask price float(quote['top_ask']['price']) 
+price (Did_price + ask_price)/2
+
+retura stock, bid price, ask price, price
