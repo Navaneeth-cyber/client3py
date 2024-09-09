@@ -1,0 +1,13 @@
+getRatio(price a, price_b):
+
+Get ratio of price a and price b
+
+Update this function Also create some unit tests for this function in client_test.py"""
+
+LF (price b0):
+
+#when price_b ts & avoid throwing ZeroDivistonError
+
+return
+
+return price_a/price_b
