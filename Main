@@ -1,0 +1,23 @@
+#Main
+
+if name main":
+
+Query the price once every N seconds.
+
+for in iter(range(N)):
+
+quotes json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
+
+Update to get the ratio
+
+prices = {}
+
+for quote in quotes:
+
+stock, bid price, ask price, price getDataPoint (quote)
+
+prices [stock] = price
+
+print("Quoted is at (bid:s, askis, price:s)" (stock, bid price, ask_price, price))
+
+print("Ratios getRatio(prices["ABC"], prices["DEF"]))
